@@ -1,0 +1,374 @@
+.class-tong {
+    width: 720px;
+    margin: 0 auto;
+}
+.page-id-305 div#content {
+    padding-top: 0;
+}
+.iconplay2 {
+    width: 363px;
+    margin: 0 auto;
+    margin-top: 33px;
+    text-align: center;
+    margin-bottom: 21px;
+}
+.star {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.star p {
+    color: #fff;
+    font-size: 27px;
+    margin-bottom: 22px;
+    margin-left: 30px;
+}
+
+
+.khungmoi {
+    padding: 10px;
+    margin-top: 30px;
+    background: url(../images/950-950.png);
+    background-size: auto;
+    background-repeat: round;
+    /* background-position: top center; */
+    height: 1082px;
+    text-align: center;
+}
+
+
+
+.khungmoi h3 {
+    background: -webkit-linear-gradient(#ffe254, #ffb50e);
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 56px;
+}
+
+
+
+.hinhanh-trochoi {
+   text-align: center;
+    display: block;
+}
+.botren {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.botren img {
+    height: auto;
+}
+.boduoi {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxtrochoi {
+    width: 31%;
+    margin-bottom: 21px;
+}
+
+
+.boxtrochoi img {
+    width: 90%;
+    
+}
+
+
+.boxtrochoi p {
+    color: #fff;
+    text-transform: uppercase;
+    margin: 16px 0px;
+}
+
+
+p.tengame a {
+    color: #fff;
+}
+
+
+
+.box-design-item2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.box-design-item2 .icon2 {
+    margin-right: 10px;
+}
+.preview2 img {
+    border: 4px solid;
+    border-radius: 15px;
+    border-color: #fda500;
+    
+}
+.box-design-item2 .icon2 {
+    margin-right: 50px;
+}
+.khungmoi-duoi {
+    text-align: center;
+    margin-top: 50px;
+    background: url(../images/2175v.png);
+    background-size: cover;
+    height: 2240px;
+	    margin-bottom: 290px;
+
+}
+
+
+.khungmoi-duoi h3 {
+    background: -webkit-linear-gradient(#ffe254, #ffb50e);
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 56px;
+	    padding-top: 60px;
+
+}
+
+
+
+
+.footermoi2 {
+    background: #210301;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* background-image: url(../images/f-bg.jpg); */
+    /* background-size: contain; */
+    border-top: 1px solid rgba(255, 226, 84, .6);
+    z-index: 100;
+}
+.footer-inner2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px 10px 10px;
+    white-space: nowrap;
+    font-size: 28px;
+    max-width: 680px;
+    margin: 0 auto;
+        margin-top: 22px;
+
+}
+.footer-inner2 .icon2 {
+    padding-right: 5px;
+    width: 136px;
+}
+.footer-inner2 .icon2 img {
+    display: block;
+}
+.footer-right2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: calc(100% - 136px);
+}
+.footer2 h3 {
+    text-transform: uppercase;
+}
+.footer-right2 .text2 span {
+    display: :block;
+    font-size: 14px;
+    margin-top:21px;
+}
+.footer__button__wap2 {
+    padding-left: 5px;
+}
+
+.text2 h3 {
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: -14px;
+}
+.text2 p {
+    color: #fff;
+    margin-bottom: 0;
+}
+.footer__button__wap2 {
+    width: auto;
+    margin-bottom: -10px;
+    margin-left: 15px;
+}
+.cskh2 img {
+    width: 71%;
+}
+.cskh2 {
+    position: fixed;
+    bottom: 236px;
+    right: -45px;
+    /* width: 70%; */
+}
+.footer__button__wap2 a {
+    line-height: 2;
+    cursor:pointer;
+}
+
+body.container {
+    margin: 0;
+    width: 100%;
+}
+@media screen and (min-width:768px){
+    .footer-inner2 .icon2 img {
+    
+    margin-top: -17px;
+}
+}
+@media screen and (max-width:480px){
+    img.iconvuong{
+        width: 65px;
+    height: 65px !important;
+    }
+    .icon2 img {
+    width: 65px;
+    height: 100px;
+}
+    .preview2 img {
+    border: 4px solid;
+    border-radius: 15px;
+    border-color: #fda500;
+    width: 220px;
+    height: 112px;
+}
+	div#top-bar {
+    display: none;
+}
+	.large-12.col {
+    padding: 0;
+}
+	.class-tong {
+    width: 100%;
+    margin: 0 auto;
+}
+	video#videoElm {
+    width: 100%;
+}
+.iconplay2 img {
+    width: 80%;
+}
+.iconplay  {
+    width:100%;
+}
+	.star {
+    text-align: center;
+    display: block;
+    
+}
+	.star p {
+    color: #fff;
+    font-size: 27px;
+    margin-bottom: 22px;
+    margin-left: 0;
+}
+	.khungmoi h3 {
+    font-size: 25px;
+   margin-top:30px;
+}
+	.footer__button__wap2 a {
+    line-height: 1;
+    /* margin-bottom: 29px; */
+}
+	.boxtrochoi img {
+    width: 100%;
+    height: auto;
+}
+	.khungmoi {
+    padding: 10px;
+    margin-top: 30px;
+    background: url(../images/khung2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 683px;
+    text-align: center;
+}
+	.khungmoi-duoi {
+    text-align: center;
+    margin-top: 0px;
+    background: url(../images/2175v.png);
+    background-size: contain;
+    background-repeat: round;
+    margin-bottom: 174px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+		height:auto;
+}
+	.box-design-item2 .icon2 {
+    margin-right: 20px;
+}
+	.khungmoi-duoi2 h3{
+		font-size:25px;
+		    margin-top: 0px;
+
+	}
+	.box2.box22 {
+    padding: 20px;
+}
+.text2 {
+    width: 50%;
+}
+	.text2 h3 {
+   
+    font-size: 15px;
+    margin-bottom: -14px;
+}
+	.footer-right2 .text2 span {
+    font-size: 10px;
+}
+	.footer-inner2 .icon2 {
+    padding-right: 5px;
+    width: 80px;
+}
+	.footer-inner2 {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+    white-space: nowrap;
+    font-size: 28px;
+    max-width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+}
+	.footer-right2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+	.cskh2 {
+   position: fixed;
+    bottom:23%;
+    right: 4%;
+    width: 29%;
+}
+	.cskh2 img {
+    width: 100%;
+}
+.footer__button__wap2 img {
+    width: 100% !important;
+}
+}
+
+
+.footer__button__wap2 p {
+    margin-bottom: 0;
+}
+
+
+.footer__button__wap2 img {
+    width: 70%;
+}
+.text2 span {
+    color: #fff;
+}
